@@ -1,0 +1,9 @@
+{
+  "additionalFiles": "",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "esp32:esp32:esp32c3",
+  "hardwareFolders": "C:\\Users\\kenne\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.8,C:\\Users\\kenne\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.8",
+  "otherLibrariesFolders": "C:\\Users\\kenne\\Documents\\Arduino\\libraries",
+  "sketchLocation": "C:\\Users\\kenne\\claude_uploads\\Projects\\Motion Sensor\\BLE_Motion"
+}
